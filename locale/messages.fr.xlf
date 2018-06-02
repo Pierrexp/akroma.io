@@ -951,6 +951,7 @@
       </trans-unit>
       <trans-unit id="3d69960990d22e06f5d19a05104f95d56241ad90" datatype="html">
         <source>AKA to be used as you see fit.</source>
+        <target>AKA à utiliser comme bon vous semble.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">41</context>
@@ -965,6 +966,7 @@
       </trans-unit>
       <trans-unit id="27ff4c4bb8c7886d20c6b119b381006279ab43ad" datatype="html">
         <source>Listing your community, open source project, event or hackathon on akroma.io.</source>
+        <target>Listez votre communauté, projet Open Source, évenement ou Hackathon sur akroma.io.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">43</context>
@@ -982,6 +984,10 @@
                     Contact
                     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more.
                 </source>
+        <target>
+                    Contactez
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> pour en savoir plus.       
+                </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">50</context>
@@ -991,6 +997,9 @@
         <source>
           AKA Price
         </source>
+        <target>
+          Prix du AKA
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">12</context>
@@ -1000,6 +1009,9 @@
         <source>
           Average Hashrate
         </source>
+        <target>
+         Hashrate moyen
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -1009,6 +1021,9 @@
         <source>
           Difficulty
         </source>
+        <target>
+          Difficulté
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -1016,6 +1031,7 @@
       </trans-unit>
       <trans-unit id="8a7b4bd44c0ac71b2e72de0398b303257f7d2f54" datatype="html">
         <source>Blocks</source>
+        <target>Blocs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">46</context>
@@ -1023,6 +1039,7 @@
       </trans-unit>
       <trans-unit id="add4cd82e3e38a3110fe67b3c7df56e9602644ee" datatype="html">
         <source>Transactions</source>
+        <target>Transactions</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">49</context>
@@ -1032,7 +1049,10 @@
         <source>
             Block
           </source>
-        <context-group purpose="location">
+        <target>
+            Bloc
+        </target>
+          <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -1045,6 +1065,9 @@
         <source>
             Hash
           </source>
+        <target>
+          Hash
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -1058,6 +1081,7 @@
         <source>
             Time
           </source>
+        <target>Horodatage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">30</context>
@@ -1071,6 +1095,7 @@
         <source>
             Parent Hash
           </source>
+        <target>Hash parent</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">40</context>
@@ -1080,6 +1105,7 @@
         <source>
             SHA3 Uncles
           </source>
+        <target>Oncles SHA3</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">56</context>
@@ -1089,6 +1115,7 @@
         <source>
             Mined By
           </source>
+        <target>Miné par</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">66</context>
@@ -1098,6 +1125,7 @@
         <source>
             Difficulty
           </source>
+        <target>Difficulté</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">76</context>
@@ -1107,6 +1135,7 @@
         <source>
             Total Difficulty
           </source>
+        <target>Difficulté totale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">86</context>
@@ -1116,6 +1145,7 @@
         <source>
             Gas Limit
           </source>
+        <target>Limite de Gaz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">96</context>
@@ -1125,6 +1155,7 @@
         <source>
             Gas Used
           </source>
+        <target>Gaz utilisé</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">106</context>
@@ -1134,6 +1165,7 @@
         <source>
             Nonce
           </source>
+        <target>Nonce</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">116</context>
@@ -1147,6 +1179,7 @@
         <source>
             Extra Data
           </source>
+        <target>Donnée complémentaire</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
           <context context-type="linenumber">126</context>
@@ -1156,6 +1189,7 @@
         <source>
             From
           </source>
+        <target>De</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">30</context>
@@ -1165,6 +1199,7 @@
         <source>
             To
           </source>
+        <target>à</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">46</context>
@@ -1174,6 +1209,7 @@
         <source>
             Confirmations
           </source>
+        <target>Confirmations</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">62</context>
@@ -1183,6 +1219,7 @@
         <source>
             Value
           </source>
+        <target>Valeur</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">77</context>
@@ -1192,6 +1229,7 @@
         <source>
             Block Hash
           </source>
+        <target>Hash du bloc</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">103</context>
@@ -1201,6 +1239,7 @@
         <source>
             Gas Provided
           </source>
+        <target>Gaz fourni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">119</context>
@@ -1210,6 +1249,7 @@
         <source>
             Gas Price
           </source>
+        <target>Prix du Gaz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">129</context>
@@ -1219,6 +1259,8 @@
         <source>
             Input Data
           </source>
+        <target>XXX
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
           <context context-type="linenumber">149</context>
@@ -1228,6 +1270,9 @@
         <source>
             Akroma Balance
           </source>
+        <target>
+          Balance Akroma
+          </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -1237,6 +1282,7 @@
         <source>
             Blocks Mined
           </source>
+        <target>Blocs minés</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">29</context>
@@ -1246,6 +1292,9 @@
         <source>
             Transactions
           </source>
+        <target>
+          Transactions
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">37</context>
@@ -1255,6 +1304,7 @@
         <source>
           Transactions
         </source>
+        <target>Transactions</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">47</context>
@@ -1262,6 +1312,7 @@
       </trans-unit>
       <trans-unit id="cdb6e6207a6e6baf59b30276625c32c1c61ae918" datatype="html">
         <source>TO</source>
+        <target>A</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">75</context>
@@ -1269,6 +1320,7 @@
       </trans-unit>
       <trans-unit id="d7113ecd4c9545c6f886131bf0ffa8c39ba8abda" datatype="html">
         <source>FROM</source>
+        <target>DE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">83</context>
@@ -1276,6 +1328,7 @@
       </trans-unit>
       <trans-unit id="c43dc1967a603fefb886149ac35863a06d5b4ce5" datatype="html">
         <source>Information</source>
+        <target>Information</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -1289,6 +1342,7 @@
         <source>
                     Locked
                 </source>
+        <target>Verrouillé</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
           <context context-type="linenumber">14</context>
@@ -1298,6 +1352,7 @@
         <source>
                     Total Rewarded
                 </source>
+        <target>Gains totaux</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -1307,6 +1362,7 @@
         <source>
                     Active Nodes
                 </source>
+        <target>Nœuds actifs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
           <context context-type="linenumber">35</context>
@@ -1316,6 +1372,7 @@
         <source>
                     Total Users
                 </source>
+        <target>Utilisateurs totaux</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -1323,6 +1380,7 @@
       </trans-unit>
       <trans-unit id="1d9b52673690c70415c30515eebe4439789e66ae" datatype="html">
         <source>MASTERNODES</source>
+        <target>MASTERNODES</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
           <context context-type="linenumber">10</context>
@@ -1330,6 +1388,7 @@
       </trans-unit>
       <trans-unit id="c513f891ce8a414bb592d1234b797cb2c88b9bb2" datatype="html">
         <source>30 DAY REWARDS</source>
+        <target>GAINS SUR 30 JOURS</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
           <context context-type="linenumber">17</context>
@@ -1337,6 +1396,7 @@
       </trans-unit>
       <trans-unit id="524a9037b7717b8676b9bba9d4b106c53efe9e44" datatype="html">
         <source>LIFETIME REWARDS</source>
+        <target>GAINS TOTAUX</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
           <context context-type="linenumber">24</context>
@@ -1344,6 +1404,7 @@
       </trans-unit>
       <trans-unit id="f7de68b781af949dc0e1b02bc3faa1fcd6fba8f2" datatype="html">
         <source>Create Masternode</source>
+        <target>Créer un Masternode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes/masternodes.component.ts</context>
           <context context-type="linenumber">40</context>
@@ -1351,6 +1412,7 @@
       </trans-unit>
       <trans-unit id="cdfb2c2c6f12c6654869288e66ec7ccd8c2f12bc" datatype="html">
         <source>Enode Id</source>
+        <target>Identité Enode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -1362,6 +1424,7 @@
       </trans-unit>
       <trans-unit id="84738b1bbb866302445901b1bca1e9cb5bf8d006" datatype="html">
         <source>IP</source>
+        <target>IP</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
           <context context-type="linenumber">27</context>
@@ -1377,6 +1440,7 @@
       </trans-unit>
       <trans-unit id="cb2741a46e3560f6bc6dfd99d385e86b08b26d72" datatype="html">
         <source>Port</source>
+        <target>Port</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
           <context context-type="linenumber">35</context>
@@ -1388,6 +1452,7 @@
       </trans-unit>
       <trans-unit id="1c1d901ce2f965a7817438cc6b0efb70ba6afbd3" datatype="html">
         <source>Wallet Address</source>
+        <target>Adresse du portefeuille</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -1395,6 +1460,7 @@
       </trans-unit>
       <trans-unit id="2798cc1e152b1ec07fd8daf94a2a073d1ba1ebcc" datatype="html">
         <source>Id</source>
+        <target>Id</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
           <context context-type="linenumber">54</context>
@@ -1402,6 +1468,7 @@
       </trans-unit>
       <trans-unit id="f61c6867295f3b53d23557021f2f4e0aa1d0b8fc" datatype="html">
         <source>Type</source>
+        <target>Type</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
           <context context-type="linenumber">55</context>
@@ -1409,6 +1476,7 @@
       </trans-unit>
       <trans-unit id="5ad4eecbd0fe09c34678fefce317a052af39dc96" datatype="html">
         <source>Data</source>
+        <target>Donnée</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
           <context context-type="linenumber">56</context>
@@ -1416,6 +1484,7 @@
       </trans-unit>
       <trans-unit id="b24f1cd32cbc1ec9537af28c4fe1b8204097714b" datatype="html">
         <source>Time</source>
+        <target>Temps</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-detail/masternodes-detail.component.ts</context>
           <context context-type="linenumber">57</context>
@@ -1423,6 +1492,7 @@
       </trans-unit>
       <trans-unit id="5d1e500cd4ff2ebcf566f820fb3633e3c7c8ca24" datatype="html">
         <source>NAME</source>
+        <target>NOM</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
           <context context-type="linenumber">12</context>
@@ -1430,6 +1500,7 @@
       </trans-unit>
       <trans-unit id="d5e31741c591719630b5bba1ba38f8c1a04c10e3" datatype="html">
         <source>EMAIL</source>
+        <target>EMAIL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
           <context context-type="linenumber">16</context>
@@ -1437,6 +1508,7 @@
       </trans-unit>
       <trans-unit id="c48e75da8086e4b41d3f11d9d3454b02e46ac152" datatype="html">
         <source> ACCEPTED TOS</source>
+        <target>TOS ACCEPTE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/profile/profile.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -1444,6 +1516,7 @@
       </trans-unit>
       <trans-unit id="801c464dfaabb8eb2c16f2cc0bf81435030174dd" datatype="html">
         <source>login</source>
+        <target>Connexion</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">12</context>
@@ -1451,6 +1524,7 @@
       </trans-unit>
       <trans-unit id="8a5c99d9397246e057e8ac7f656395087aa580c4" datatype="html">
         <source>masternode Registered</source>
+        <target>Masternode enregistré</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">19</context>
@@ -1458,6 +1532,7 @@
       </trans-unit>
       <trans-unit id="e44d4453fbff9242ca2088cf5d4e1ec6f7fa25e3" datatype="html">
         <source>masternode failed health check</source>
+        <target>Echec de la vérification de santé du Masternode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">26</context>
@@ -1465,6 +1540,7 @@
       </trans-unit>
       <trans-unit id="02aa5dcd673cfd96a5b1f6ab440e2c53e948f8c0" datatype="html">
         <source>masternode revoked</source>
+        <target>Masternode révoqué</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">33</context>
@@ -1472,6 +1548,7 @@
       </trans-unit>
       <trans-unit id="59ffc2fa19fecb79118a6ed6f301140ff0c49e63" datatype="html">
         <source>masternode verified</source>
+        <target>Masternode vérifié</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">41</context>
@@ -1479,6 +1556,7 @@
       </trans-unit>
       <trans-unit id="8961f48a8a5b074b1e4df47dc395e021c94a21f4" datatype="html">
         <source>rewards transaction</source>
+        <target>Transactions réalisées</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">50</context>
@@ -1486,6 +1564,7 @@
       </trans-unit>
       <trans-unit id="468ca29bcae69bd80a9a42669e49bd9580b9476b" datatype="html">
         <source>masternode edit</source>
+        <target>Edition du Masternode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">59</context>
@@ -1493,6 +1572,7 @@
       </trans-unit>
       <trans-unit id="efb2f5a8118683b5949d4080e4eddfc737129594" datatype="html">
         <source>masternode delete</source>
+        <target>Suppression du Masternode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/alerts/alerts.component.ts</context>
           <context context-type="linenumber">67</context>
@@ -1502,6 +1582,8 @@
         <source>ACCEPT.
                     <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>TOS.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
+        <target>ACCEPTE.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>TOS.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/terms/terms.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -1513,6 +1595,11 @@
                             <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and
                             <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a&gt;"/>Participation Agreement<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
                         </source>
+        <target>J'ai lu et accepte les
+                            <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Termes de service<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>,
+                            <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Règles relatives à la vie privée<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> et
+                            <x id="START_LINK_2" ctype="x-a" equiv-text="&lt;a&gt;"/>L'agrément de participation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/terms/terms.component.ts</context>
           <context context-type="linenumber">16</context>
@@ -1520,6 +1607,7 @@
       </trans-unit>
       <trans-unit id="5826916db2704cefe89031c90c7718c2de206af7" datatype="html">
         <source>Really delete masternode #<x id="INTERPOLATION" equiv-text="{{ masternode.id }}"/>?</source>
+        <target>Supprimer réellement le Masternode #<x id="INTERPOLATION" equiv-text="{{ masternode.id }}"/>?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">3</context>
@@ -1527,6 +1615,7 @@
       </trans-unit>
       <trans-unit id="6a6a46b85c099df3967272d9cdb863877d701c69" datatype="html">
         <source>Yes (delete)</source>
+        <target>Oui (supprimer)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">4</context>
@@ -1534,6 +1623,7 @@
       </trans-unit>
       <trans-unit id="3d3ae7deebc5949b0c1c78b9847886a94321d9fd" datatype="html">
         <source>No</source>
+        <target>Non</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -1541,6 +1631,7 @@
       </trans-unit>
       <trans-unit id="86a6ee96bf024614a0440a08092a8655fb863c92" datatype="html">
         <source>Masternode</source>
+        <target>Masternode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">16</context>
@@ -1548,6 +1639,7 @@
       </trans-unit>
       <trans-unit id="4f8b2bb476981727ab34ed40fde1218361f92c45" datatype="html">
         <source>Details</source>
+        <target>Détail</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">25</context>
@@ -1555,6 +1647,7 @@
       </trans-unit>
       <trans-unit id="28f86ffd419b869711aa13f5e5ff54be6d70731c" datatype="html">
         <source>Edit</source>
+        <target>Editer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">26</context>
@@ -1562,6 +1655,7 @@
       </trans-unit>
       <trans-unit id="27c7bfba7033cc8dbf4caf42b40b6b3c87197838" datatype="html">
         <source>Verify</source>
+        <target>Vérifier</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">29</context>
@@ -1569,6 +1663,7 @@
       </trans-unit>
       <trans-unit id="826b25211922a1b46436589233cb6f1a163d89b7" datatype="html">
         <source>Delete</source>
+        <target>Supprimer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">33</context>
@@ -1576,6 +1671,7 @@
       </trans-unit>
       <trans-unit id="814efcc244d182cabfdcdf7754097cdd023514d9" datatype="html">
         <source>Verified</source>
+        <target>Vérifié</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -1583,6 +1679,7 @@
       </trans-unit>
       <trans-unit id="a66a6dbb033b25bea837dcd0a753490def409172" datatype="html">
         <source>Try Count</source>
+        <target>Nombre d'essais</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">59</context>
@@ -1592,6 +1689,7 @@
         <source>
             <x id="INTERPOLATION" equiv-text="{{ masternode.verifyTryCount }}"/> of max 10 verification attempts
           </source>
+        <target><x id="INTERPOLATION" equiv-text="{{ masternode.verifyTryCount }}"/> de 10 tentatives de vérification maximum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">63</context>
@@ -1599,6 +1697,7 @@
       </trans-unit>
       <trans-unit id="4af3ce71bf2e475b17b8f9c29e77a8ac9db07d78" datatype="html">
         <source>24/hr Uptime</source>
+        <target>Uptime sur 24h</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">73</context>
@@ -1606,6 +1705,7 @@
       </trans-unit>
       <trans-unit id="7059a413a0fee793cd9661459894385360ec16d0" datatype="html">
         <source>7/day Uptime</source>
+        <target>Uptime sur 7j</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">87</context>
@@ -1613,6 +1713,7 @@
       </trans-unit>
       <trans-unit id="8c5b3fa244ce8203d1a8047e1e90f48d275fd5e3" datatype="html">
         <source>30/day Uptime</source>
+        <target>Uptime sur 30j</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">101</context>
@@ -1620,6 +1721,7 @@
       </trans-unit>
       <trans-unit id="13b20c59b98de1d551b574249195bb13720fd5fa" datatype="html">
         <source>Transaction Data</source>
+        <target>Donnée de transaction</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">115</context>
@@ -1627,6 +1729,7 @@
       </trans-unit>
       <trans-unit id="c0d4baf68f21ee9c4246d66f0ac828c5b73ae745" datatype="html">
         <source>Wallet</source>
+        <target>Portefeuille</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">143</context>
@@ -1634,6 +1737,7 @@
       </trans-unit>
       <trans-unit id="9c9822d091077929151bbc04561ee7034bb383f8" datatype="html">
         <source>Enode ID</source>
+        <target>Identifiant Enode</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">159</context>
@@ -1641,6 +1745,7 @@
       </trans-unit>
       <trans-unit id="ed6a37ec799a3bd3c4afdbb17208383ad38f8308" datatype="html">
         <source>Last Seen</source>
+        <target>Dernière vue</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">173</context>
